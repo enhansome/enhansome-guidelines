@@ -53,7 +53,7 @@
             "last_commit": "2026-04-28T17:18:05Z",
             "owner": "golang-standards",
             "repo": "project-layout",
-            "stars": 56450
+            "stars": 56451
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-04-15T15:10:48Z",
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17657
+            "stars": 17659
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148140
+            "stars": 148147
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2024-07-29T07:24:37Z",
             "owner": "ryanmcdermott",
             "repo": "clean-code-javascript",
-            "stars": 94761
+            "stars": 94758
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39499
+            "stars": 39500
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16553
+            "stars": 16554
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-04-05T20:02:09Z",
             "owner": "databricks",
             "repo": "scala-style-guide",
-            "stars": 2806
+            "stars": 2807
           }
         }
       ],
@@ -265,7 +265,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4757
+            "stars": 4758
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-13T01:40:51Z",
             "owner": "git",
             "repo": "git",
-            "stars": 62534
+            "stars": 62539
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23319
+            "stars": 23318
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23299
+            "stars": 23300
           }
         }
       ],
@@ -439,7 +439,7 @@
             "last_commit": "2026-08-11T04:01:39Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73519
+            "stars": 73525
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2023-12-30T16:43:09Z",
             "owner": "bendc",
             "repo": "frontend-guidelines",
-            "stars": 9117
+            "stars": 9116
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39858
+            "stars": 39864
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-08T05:03:04Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23972
+            "stars": 23974
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2024-04-01T20:37:32Z",
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10774
+            "stars": 10773
           }
         },
         {
@@ -622,7 +622,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:05:18Z",
+            "last_commit": "2026-08-13T14:32:02Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
             "stars": 8993
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:05.107Z",
+    "last_updated": "2026-08-13T14:33:18.104Z",
     "original_repository": "Kristories/awesome-guidelines",
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
     "enhanced_repository": "enhansome/enhansome-guidelines",
