@@ -53,7 +53,7 @@
             "last_commit": "2026-04-28T17:18:05Z",
             "owner": "golang-standards",
             "repo": "project-layout",
-            "stars": 56452
+            "stars": 56455
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-04-15T15:10:48Z",
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17661
+            "stars": 17660
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148154
+            "stars": 148135
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2024-07-29T07:24:37Z",
             "owner": "ryanmcdermott",
             "repo": "clean-code-javascript",
-            "stars": 94764
+            "stars": 94762
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2025-01-15T19:12:12Z",
             "owner": "linkedin",
             "repo": "swift-style-guide",
-            "stars": 1454
+            "stars": 1453
           }
         },
         {
@@ -329,10 +329,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T22:44:59Z",
+            "last_commit": "2026-08-15T00:02:59Z",
             "owner": "git",
             "repo": "git",
-            "stars": 62558
+            "stars": 62572
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23318
+            "stars": 23319
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23300
+            "stars": 23297
           }
         }
       ],
@@ -439,7 +439,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73531
+            "stars": 73535
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2023-12-30T16:43:09Z",
             "owner": "bendc",
             "repo": "frontend-guidelines",
-            "stars": 9117
+            "stars": 9118
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6977
+            "stars": 6976
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29454
+            "stars": 29453
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39870
+            "stars": 39879
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-08T05:03:04Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23976
+            "stars": 23977
           }
         },
         {
@@ -622,10 +622,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:00:34Z",
+            "last_commit": "2026-08-15T13:25:58Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 8991
+            "stars": 8990
           }
         },
         {
@@ -636,10 +636,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:31:49Z",
+            "last_commit": "2026-08-14T17:44:22Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8497
+            "stars": 8498
           }
         },
         {
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:19:57.523Z",
+    "last_updated": "2026-08-15T13:43:14.025Z",
     "original_repository": "Kristories/awesome-guidelines",
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
     "enhanced_repository": "enhansome/enhansome-guidelines",

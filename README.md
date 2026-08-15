@@ -89,8 +89,8 @@ Programming style, best practices, and coding conventions.
 
 ### Go
 
-* [Go Standard Project Layout](https://github.com/golang-standards/project-layout) ⭐ 56,452 | 🐛 95 | 🌐 Makefile | 📅 2026-04-28 - Basic layout for Go applications.
-* [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) ⭐ 17,661 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15 - Patterns and conventions used in Go code at Uber.
+* [Go Standard Project Layout](https://github.com/golang-standards/project-layout) ⭐ 56,455 | 🐛 95 | 🌐 Makefile | 📅 2026-04-28 - Basic layout for Go applications.
+* [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) ⭐ 17,660 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15 - Patterns and conventions used in Go code at Uber.
 * [Effective Go](https://go.dev/doc/effective_go) - Idioms and best practices for Go.
 * [Google Go Style Guide](https://google.github.io/styleguide/go) - Google's coding standards for source code in Go.
 
@@ -111,8 +111,8 @@ Programming style, best practices, and coding conventions.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,154 | 🐛 162 | 🌐 JavaScript | 📅 2026-04-16 - A mostly reasonable approach to JavaScript.
-* [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,764 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,135 | 🐛 162 | 🌐 JavaScript | 📅 2026-04-16 - A mostly reasonable approach to JavaScript.
+* [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,762 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 * [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,920 | 🐛 4 | 📅 2019-01-09 - Community-driven set of best practices for AngularJS application development.
 * [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.
@@ -200,7 +200,7 @@ Programming style, best practices, and coding conventions.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) ⭐ 115,503 | 🐛 12,730 | 🌐 Rust | 📅 2026-08-14
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) ⭐ 115,506 | 🐛 12,714 | 🌐 Rust | 📅 2026-08-15
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
@@ -219,7 +219,7 @@ Programming style, best practices, and coding conventions.
 
 * [Swift style guide](https://github.com/kodecocodes/swift-style-guide) ⭐ 13,162 | 🐛 16 | 📅 2025-04-01 - Community Swift style guide.
 * [Swift](https://github.com/github/swift-style-guide) ⚠️ Archived - GitHub Official Swift style and conventions.
-* [Swift Style Guide](https://github.com/linkedin/swift-style-guide) ⭐ 1,454 | 🐛 5 | 📅 2025-01-15 - LinkedIn Official Swift Style Guide.
+* [Swift Style Guide](https://github.com/linkedin/swift-style-guide) ⭐ 1,453 | 🐛 5 | 📅 2025-01-15 - LinkedIn Official Swift Style Guide.
 * [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) ⚠️ Archived - Swift language style guide & coding conventions followed by Xmartlabs.
 * [Metova's Swift style guide](https://github.com/metova/swift-style-guide) ⚠️ Archived - Swift style guide for Xcode (archived, deprecated 2022).
 * [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) - API design principles for Swift.
@@ -247,7 +247,7 @@ Programming style, best practices, and coding conventions.
 
 ### Git
 
-* [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines) ⭐ 62,558 | 🐛 387 | 🌐 C | 📅 2026-08-13 - Coding guidelines used in the Git project.
+* [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines) ⭐ 62,572 | 🐛 388 | 🌐 C | 📅 2026-08-15 - Coding guidelines used in the Git project.
 * [Git Style Guide](https://github.com/agis/git-style-guide) ⭐ 5,118 | 🐛 0 | 📅 2022-09-26 - Git usage and style recommendations.
 
 ### PowerShell
@@ -267,8 +267,8 @@ Programming style, best practices, and coding conventions.
 
 ### API
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,318 | 🐛 176 | 📅 2026-08-05 - The Microsoft REST API Guidelines.
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,300 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your API.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,319 | 🐛 176 | 📅 2026-08-05 - The Microsoft REST API Guidelines.
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,297 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 * [HAL](http://stateless.co/hal_specification.html) - A simple format that gives a consistent and easy way to hyperlink between resources in your API.
 * [JSON API - Recommendations](http://jsonapi.org/recommendations) - This section contains recommendations for JSON API implementations.
 * [Google Cloud API Design Guide](https://cloud.google.com/apis/design) - A general design guide for networked APIs provided by Google.
@@ -280,9 +280,9 @@ Programming style, best practices, and coding conventions.
 
 ### Frontend Development
 
-* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,531 | 🐛 4 | 🌐 MDX | 📅 2026-08-14 - Pre-launch checklist for front-end projects.
-* [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,117 | 🐛 5 | 📅 2023-12-30 - Some HTML, CSS and JS best practices.
-* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) ⭐ 6,977 | 🐛 23 | 📅 2024-06-04 - A mostly reasonable approach to CSS and Sass.
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,535 | 🐛 4 | 🌐 MDX | 📅 2026-08-14 - Pre-launch checklist for front-end projects.
+* [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,118 | 🐛 5 | 📅 2023-12-30 - Some HTML, CSS and JS best practices.
+* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) ⭐ 6,976 | 🐛 23 | 📅 2024-06-04 - A mostly reasonable approach to CSS and Sass.
 * [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,630 | 🐛 18 | 📅 2018-11-08 - A collection of best-practices and coding conventions for the CoffeeScript programming language.
 * [HTML Style Guide](https://github.com/marcobiedermann/html-style-guide) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-05 - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
 * [CSS Guidelines](https://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS.
@@ -335,7 +335,7 @@ Programming style, best practices, and coding conventions.
 
 ### Other
 
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines) ⭐ 29,454 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09 - A set of best practices for JavaScript projects.
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines) ⭐ 29,453 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09 - A set of best practices for JavaScript projects.
 * [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards) ⭐ 223 | 🐛 136 | 🌐 CodeQL | 📅 2026-08-07
 * [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Guidelines for writing human-readable project changelogs.
 * [Semantic Versioning](http://semver.org)
@@ -359,11 +359,11 @@ Programming style, best practices, and coding conventions.
 
 ## Tools
 
-* [ShellCheck](https://github.com/koalaman/shellcheck) ⭐ 39,870 | 🐛 1,136 | 🌐 Haskell | 📅 2026-08-04 - A shell script static analysis tool.
-* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,976 | 🐛 404 | 🌐 JavaScript | 📅 2026-08-08 - Automated versioning and publishing from commits.
+* [ShellCheck](https://github.com/koalaman/shellcheck) ⭐ 39,879 | 🐛 1,136 | 🌐 Haskell | 📅 2026-08-04 - A shell script static analysis tool.
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,977 | 🐛 404 | 🌐 JavaScript | 📅 2026-08-08 - Automated versioning and publishing from commits.
 * [PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,774 | 🐛 248 | 🌐 PHP | 📅 2024-04-01 - The tool for detecting and fixing the violations of the specified standards in PHP code.
-* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 8,991 | 🐛 841 | 🌐 Java | 📅 2026-08-14 - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
-* [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,497 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-12 - Generate changelogs from Git commits.
+* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 8,990 | 🐛 827 | 🌐 Java | 📅 2026-08-15 - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
+* [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,498 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-14 - Generate changelogs from Git commits.
 * [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) ⭐ 1,620 | 🐛 0 | 🌐 PHP | 📅 2026-08-11 - The Easiest Way to Use Any Coding Standard.
 * [Agents.md](https://agents.md) - A simple, open format for guiding coding agents.
 * [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
@@ -374,4 +374,4 @@ Programming style, best practices, and coding conventions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
