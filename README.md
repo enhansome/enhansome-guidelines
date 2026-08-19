@@ -200,7 +200,7 @@ Programming style, best practices, and coding conventions.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) ⭐ 115,606 | 🐛 12,687 | 🌐 Rust | 📅 2026-08-19
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) ⭐ 115,608 | 🐛 12,688 | 🌐 Rust | 📅 2026-08-19
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
@@ -247,12 +247,12 @@ Programming style, best practices, and coding conventions.
 
 ### Git
 
-* [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines) ⭐ 62,656 | 🐛 387 | 🌐 C | 📅 2026-08-18 - Coding guidelines used in the Git project.
+* [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines) ⭐ 62,656 | 🐛 388 | 🌐 C | 📅 2026-08-18 - Coding guidelines used in the Git project.
 * [Git Style Guide](https://github.com/agis/git-style-guide) ⭐ 5,116 | 🐛 0 | 📅 2022-09-26 - Git usage and style recommendations.
 
 ### PowerShell
 
-* [The PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle) ⭐ 2,427 | 🐛 38 | 📅 2023-05-19 - The Unofficial PowerShell Best Practices and Style Guide.
+* [The PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle) ⭐ 2,426 | 🐛 38 | 📅 2023-05-19 - The Unofficial PowerShell Best Practices and Style Guide.
 
 ## Platforms
 
@@ -280,7 +280,7 @@ Programming style, best practices, and coding conventions.
 
 ### Frontend Development
 
-* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,570 | 🐛 6 | 🌐 MDX | 📅 2026-08-14 - Pre-launch checklist for front-end projects.
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,569 | 🐛 6 | 🌐 MDX | 📅 2026-08-14 - Pre-launch checklist for front-end projects.
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,116 | 🐛 5 | 📅 2023-12-30 - Some HTML, CSS and JS best practices.
 * [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) ⭐ 6,976 | 🐛 23 | 📅 2024-06-04 - A mostly reasonable approach to CSS and Sass.
 * [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,629 | 🐛 18 | 📅 2018-11-08 - A collection of best-practices and coding conventions for the CoffeeScript programming language.
@@ -362,7 +362,7 @@ Programming style, best practices, and coding conventions.
 * [ShellCheck](https://github.com/koalaman/shellcheck) ⭐ 39,893 | 🐛 1,139 | 🌐 Haskell | 📅 2026-08-04 - A shell script static analysis tool.
 * [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,987 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-18 - Automated versioning and publishing from commits.
 * [PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,776 | 🐛 248 | 🌐 PHP | 📅 2024-04-01 - The tool for detecting and fixing the violations of the specified standards in PHP code.
-* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 8,990 | 🐛 827 | 🌐 Java | 📅 2026-08-19 - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
+* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 8,990 | 🐛 825 | 🌐 Java | 📅 2026-08-19 - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,498 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-18 - Generate changelogs from Git commits.
 * [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) ⭐ 1,620 | 🐛 0 | 🌐 PHP | 📅 2026-08-11 - The Easiest Way to Use Any Coding Standard.
 * [Agents.md](https://agents.md) - A simple, open format for guiding coding agents.

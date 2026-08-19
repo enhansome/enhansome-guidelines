@@ -474,7 +474,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73570
+                "stars": 73569
               }
             },
             {
@@ -676,7 +676,7 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-19T12:23:18Z",
+            "last_commit": "2026-08-19T13:05:44Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
             "stars": 8990
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:53.346Z",
+    "last_updated": "2026-08-19T13:56:27.321Z",
     "original_repository": "Kristories/awesome-guidelines",
     "original_repository_id": 97054975,
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
