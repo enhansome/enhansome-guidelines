@@ -1,576 +1,626 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elisp Guide",
+              "description": "Guide to writing Emacs Lisp.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23618499,
+                "language": null,
+                "last_commit": "2022-03-19T04:53:10Z",
+                "owner": "chrisdone-archive",
+                "repo": "elisp-guide",
+                "stars": 1487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emacs Lisp Style Guide",
+              "description": "Community style guide for Emacs Lisp.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23659333,
+                "language": null,
+                "last_commit": "2026-03-31T12:31:44Z",
+                "owner": "bbatsov",
+                "repo": "emacs-lisp-style-guide",
+                "stars": 1136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs Lisp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go Standard Project Layout",
+              "description": "Basic layout for Go applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102969245,
+                "language": "Makefile",
+                "last_commit": "2026-04-28T17:18:05Z",
+                "owner": "golang-standards",
+                "repo": "project-layout",
+                "stars": 56475
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uber Go Style Guide",
+              "description": "Patterns and conventions used in Go code at Uber.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157008425,
+                "language": "Makefile",
+                "last_commit": "2026-04-15T15:10:48Z",
+                "owner": "uber-go",
+                "repo": "guide",
+                "stars": 17659
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Airbnb JavaScript Style Guide",
+              "description": "A mostly reasonable approach to JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript Clean Code",
+              "description": "Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74791366,
+                "language": "JavaScript",
+                "last_commit": "2024-07-29T07:24:37Z",
+                "owner": "ryanmcdermott",
+                "repo": "clean-code-javascript",
+                "stars": 94758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AngularJS Style Guide",
+              "description": "Community-driven set of best practices for AngularJS application development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13362280,
+                "language": null,
+                "last_commit": "2019-01-09T23:20:03Z",
+                "owner": "mgechev",
+                "repo": "angularjs-style-guide",
+                "stars": 4919
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Objective-C Style Guide",
+              "description": "Objective-C coding standards and conventions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35969061,
+                "language": "HTML",
+                "last_commit": "2026-06-03T15:51:23Z",
+                "owner": "google",
+                "repo": "styleguide",
+                "stars": 39514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NYTimes Objective-C Style Guide",
+              "description": "The Objective-C Style Guide used by The New York Times.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11797828,
+                "language": null,
+                "last_commit": "2023-05-09T17:23:08Z",
+                "owner": "nytimes",
+                "repo": "objective-c-style-guide",
+                "stars": 5818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Objective-C Style guide",
+              "description": "Style guide & coding conventions for Objective-C projects.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5968664,
+                "language": null,
+                "last_commit": "2017-11-08T16:07:32Z",
+                "owner": "github",
+                "repo": "objective-c-style-guide",
+                "stars": 1665
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Objective-C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby Style Guide",
+              "description": "A community-driven Ruby coding style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2371106,
+                "language": null,
+                "last_commit": "2026-07-20T10:56:34Z",
+                "owner": "rubocop",
+                "repo": "ruby-style-guide",
+                "stars": 16552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby Style Guide",
+              "description": "Airbnb's Ruby Style Guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7967167,
+                "language": "Ruby",
+                "last_commit": "2025-12-19T06:38:30Z",
+                "owner": "airbnb",
+                "repo": "ruby",
+                "stars": 3891
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scala Best Practices",
+              "description": "Recommendations and patterns for Scala development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25477005,
+                "language": null,
+                "last_commit": "2022-11-09T16:59:04Z",
+                "owner": "alexandru",
+                "repo": "scala-best-practices",
+                "stars": 4350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Databricks Scala Guide",
+              "description": "Databricks Scala Coding Style Guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31933589,
+                "language": null,
+                "last_commit": "2024-04-05T20:02:09Z",
+                "owner": "databricks",
+                "repo": "scala-style-guide",
+                "stars": 2806
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swift style guide",
+              "description": "Community Swift style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20667410,
+                "language": null,
+                "last_commit": "2025-04-01T18:21:22Z",
+                "owner": "kodecocodes",
+                "repo": "swift-style-guide",
+                "stars": 13162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift",
+              "description": "GitHub Official Swift style and conventions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 21782593,
+                "language": null,
+                "last_commit": "2017-11-08T16:05:41Z",
+                "owner": "github",
+                "repo": "swift-style-guide",
+                "stars": 4758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Style Guide",
+              "description": "LinkedIn Official Swift Style Guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61673934,
+                "language": null,
+                "last_commit": "2025-01-15T19:12:12Z",
+                "owner": "linkedin",
+                "repo": "swift-style-guide",
+                "stars": 1453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xmartlabs Swift Style Guide",
+              "description": "Swift language style guide & coding conventions followed by Xmartlabs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49088556,
+                "language": null,
+                "last_commit": "2017-02-07T12:18:40Z",
+                "owner": "xmartlabs",
+                "repo": "Swift-Style-Guide",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metova's Swift style guide",
+              "description": "Swift style guide for Xcode (archived, deprecated 2022).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55091763,
+                "language": null,
+                "last_commit": "2022-12-05T16:45:58Z",
+                "owner": "metova",
+                "repo": "swift-style-guide",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        }
+      ],
       "title": "Programming Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Elisp Guide",
-          "description": "Guide to writing Emacs Lisp.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-03-19T04:53:10Z",
-            "owner": "chrisdone-archive",
-            "repo": "elisp-guide",
-            "stars": 1487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Emacs Lisp Style Guide",
-          "description": "Community style guide for Emacs Lisp.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-31T12:31:44Z",
-            "owner": "bbatsov",
-            "repo": "emacs-lisp-style-guide",
-            "stars": 1136
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Few Rules from Git Documentation",
+              "description": "Coding guidelines used in the Git project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36502,
+                "language": "C",
+                "last_commit": "2026-08-18T22:51:43Z",
+                "owner": "git",
+                "repo": "git",
+                "stars": 62656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git Style Guide",
+              "description": "Git usage and style recommendations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33088032,
+                "language": null,
+                "last_commit": "2022-09-26T20:12:02Z",
+                "owner": "agis",
+                "repo": "git-style-guide",
+                "stars": 5116
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git"
         }
       ],
-      "title": "Emacs Lisp"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Go Standard Project Layout",
-          "description": "Basic layout for Go applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-04-28T17:18:05Z",
-            "owner": "golang-standards",
-            "repo": "project-layout",
-            "stars": 56471
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uber Go Style Guide",
-          "description": "Patterns and conventions used in Go code at Uber.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-04-15T15:10:48Z",
-            "owner": "uber-go",
-            "repo": "guide",
-            "stars": 17659
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Airbnb JavaScript Style Guide",
-          "description": "A mostly reasonable approach to JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-16T19:24:09Z",
-            "owner": "airbnb",
-            "repo": "javascript",
-            "stars": 148135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JavaScript Clean Code",
-          "description": "Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-29T07:24:37Z",
-            "owner": "ryanmcdermott",
-            "repo": "clean-code-javascript",
-            "stars": 94759
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AngularJS Style Guide",
-          "description": "Community-driven set of best practices for AngularJS application development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-01-09T23:20:03Z",
-            "owner": "mgechev",
-            "repo": "angularjs-style-guide",
-            "stars": 4919
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Google Objective-C Style Guide",
-          "description": "Objective-C coding standards and conventions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-03T15:51:23Z",
-            "owner": "google",
-            "repo": "styleguide",
-            "stars": 39513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NYTimes Objective-C Style Guide",
-          "description": "The Objective-C Style Guide used by The New York Times.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-05-09T17:23:08Z",
-            "owner": "nytimes",
-            "repo": "objective-c-style-guide",
-            "stars": 5818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Objective-C Style guide",
-          "description": "Style guide & coding conventions for Objective-C projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-11-08T16:07:32Z",
-            "owner": "github",
-            "repo": "objective-c-style-guide",
-            "stars": 1665
-          }
-        }
-      ],
-      "title": "Objective-C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ruby Style Guide",
-          "description": "A community-driven Ruby coding style guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-20T10:56:34Z",
-            "owner": "rubocop",
-            "repo": "ruby-style-guide",
-            "stars": 16552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby Style Guide",
-          "description": "Airbnb's Ruby Style Guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-12-19T06:38:30Z",
-            "owner": "airbnb",
-            "repo": "ruby",
-            "stars": 3891
-          }
-        }
-      ],
-      "title": "Ruby"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Scala Best Practices",
-          "description": "Recommendations and patterns for Scala development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-11-09T16:59:04Z",
-            "owner": "alexandru",
-            "repo": "scala-best-practices",
-            "stars": 4350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Databricks Scala Guide",
-          "description": "Databricks Scala Coding Style Guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-04-05T20:02:09Z",
-            "owner": "databricks",
-            "repo": "scala-style-guide",
-            "stars": 2806
-          }
-        }
-      ],
-      "title": "Scala"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Swift style guide",
-          "description": "Community Swift style guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-04-01T18:21:22Z",
-            "owner": "kodecocodes",
-            "repo": "swift-style-guide",
-            "stars": 13162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift",
-          "description": "GitHub Official Swift style and conventions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-11-08T16:05:41Z",
-            "owner": "github",
-            "repo": "swift-style-guide",
-            "stars": 4758
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift Style Guide",
-          "description": "LinkedIn Official Swift Style Guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-15T19:12:12Z",
-            "owner": "linkedin",
-            "repo": "swift-style-guide",
-            "stars": 1453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xmartlabs Swift Style Guide",
-          "description": "Swift language style guide & coding conventions followed by Xmartlabs.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-02-07T12:18:40Z",
-            "owner": "xmartlabs",
-            "repo": "Swift-Style-Guide",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Metova's Swift style guide",
-          "description": "Swift style guide for Xcode (archived, deprecated 2022).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-12-05T16:45:58Z",
-            "owner": "metova",
-            "repo": "swift-style-guide",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Development Environment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Few Rules from Git Documentation",
-          "description": "Coding guidelines used in the Git project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T21:43:04Z",
-            "owner": "git",
-            "repo": "git",
-            "stars": 62629
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Android Guidelines",
+              "description": "Architecture and code guidelines we use at ribot when developing for Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20968095,
+                "language": null,
+                "last_commit": "2021-07-10T04:18:09Z",
+                "owner": "ribot",
+                "repo": "android-guidelines",
+                "stars": 4999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xmartlabs Android Style Guide",
+              "description": "Style guide for Android by Xmartlabs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 50114332,
+                "language": null,
+                "last_commit": "2017-04-25T20:00:46Z",
+                "owner": "xmartlabs",
+                "repo": "Android-Style-Guide",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
         },
         {
-          "node_type": "item",
-          "title": "Git Style Guide",
-          "description": "Git usage and style recommendations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-26T20:12:02Z",
-            "owner": "agis",
-            "repo": "git-style-guide",
-            "stars": 5116
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft REST API Guidelines",
+              "description": "The Microsoft REST API Guidelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63188650,
+                "language": null,
+                "last_commit": "2026-08-05T00:07:38Z",
+                "owner": "microsoft",
+                "repo": "api-guidelines",
+                "stars": 23318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "API Security Checklist",
+              "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96641209,
+                "language": null,
+                "last_commit": "2026-07-21T07:59:55Z",
+                "owner": "shieldfy",
+                "repo": "API-Security-Checklist",
+                "stars": 23301
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Front-End Checklist",
+              "description": "Pre-launch checklist for front-end projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107111421,
+                "language": "MDX",
+                "last_commit": "2026-08-14T05:59:25Z",
+                "owner": "thedaviddias",
+                "repo": "Front-End-Checklist",
+                "stars": 73570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frontend Guidelines",
+              "description": "Some HTML, CSS and JS best practices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31125362,
+                "language": null,
+                "last_commit": "2023-12-30T16:43:09Z",
+                "owner": "bendc",
+                "repo": "frontend-guidelines",
+                "stars": 9116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Airbnb CSS / Sass Styleguide",
+              "description": "A mostly reasonable approach to CSS and Sass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38265709,
+                "language": null,
+                "last_commit": "2024-06-04T00:44:40Z",
+                "owner": "airbnb",
+                "repo": "css",
+                "stars": 6976
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoffeeScript Style Guide",
+              "description": "A collection of best-practices and coding conventions for the CoffeeScript programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3013517,
+                "language": null,
+                "last_commit": "2018-11-08T08:05:46Z",
+                "owner": "polarmobile",
+                "repo": "coffeescript-style-guide",
+                "stars": 1629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTML Style Guide",
+              "description": "A style guide which helps you write better, performant, structured, scalable and maintainable HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90132739,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T04:29:16Z",
+                "owner": "marcobiedermann",
+                "repo": "html-style-guide",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frontend Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node.js Style Guide",
+              "description": "A guide for styling your Node.js / JavaScript code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4822113,
+                "language": "JavaScript",
+                "last_commit": "2021-01-24T03:40:33Z",
+                "owner": "felixge",
+                "repo": "node-style-guide",
+                "stars": 4994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microsoft + Node.js Guidelines",
+              "description": "Engineering guidelines for building Node.js apps.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45360221,
+                "language": null,
+                "last_commit": "2023-02-12T09:16:18Z",
+                "owner": "microsoft",
+                "repo": "nodejs-guidelines",
+                "stars": 2496
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Guidelines",
+              "description": "A set of best practices for JavaScript projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95876775,
+                "language": "JavaScript",
+                "last_commit": "2024-12-09T07:59:04Z",
+                "owner": "elsewhencode",
+                "repo": "project-guidelines",
+                "stars": 29450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CodeQL Coding Standards",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513154248,
+                "language": "CodeQL",
+                "last_commit": "2026-08-19T10:07:12Z",
+                "owner": "github",
+                "repo": "codeql-coding-standards",
+                "stars": 223
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
-      "title": "Git"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Platforms"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Android Guidelines",
-          "description": "Architecture and code guidelines we use at ribot when developing for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-07-10T04:18:09Z",
-            "owner": "ribot",
-            "repo": "android-guidelines",
-            "stars": 4999
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xmartlabs Android Style Guide",
-          "description": "Style guide for Android by Xmartlabs.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-04-25T20:00:46Z",
-            "owner": "xmartlabs",
-            "repo": "Android-Style-Guide",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Android"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Microsoft REST API Guidelines",
-          "description": "The Microsoft REST API Guidelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-05T00:07:38Z",
-            "owner": "microsoft",
-            "repo": "api-guidelines",
-            "stars": 23317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "API Security Checklist",
-          "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-21T07:59:55Z",
-            "owner": "shieldfy",
-            "repo": "API-Security-Checklist",
-            "stars": 23299
-          }
-        }
-      ],
-      "title": "API"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Front-End Checklist",
-          "description": "Pre-launch checklist for front-end projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MDX",
-            "last_commit": "2026-08-14T05:59:25Z",
-            "owner": "thedaviddias",
-            "repo": "Front-End-Checklist",
-            "stars": 73556
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Frontend Guidelines",
-          "description": "Some HTML, CSS and JS best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-12-30T16:43:09Z",
-            "owner": "bendc",
-            "repo": "frontend-guidelines",
-            "stars": 9116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Airbnb CSS / Sass Styleguide",
-          "description": "A mostly reasonable approach to CSS and Sass.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-04T00:44:40Z",
-            "owner": "airbnb",
-            "repo": "css",
-            "stars": 6976
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoffeeScript Style Guide",
-          "description": "A collection of best-practices and coding conventions for the CoffeeScript programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-11-08T08:05:46Z",
-            "owner": "polarmobile",
-            "repo": "coffeescript-style-guide",
-            "stars": 1629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTML Style Guide",
-          "description": "A style guide which helps you write better, performant, structured, scalable and maintainable HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T04:29:16Z",
-            "owner": "marcobiedermann",
-            "repo": "html-style-guide",
-            "stars": 41
-          }
-        }
-      ],
-      "title": "Frontend Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Node.js Style Guide",
-          "description": "A guide for styling your Node.js / JavaScript code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-24T03:40:33Z",
-            "owner": "felixge",
-            "repo": "node-style-guide",
-            "stars": 4994
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft + Node.js Guidelines",
-          "description": "Engineering guidelines for building Node.js apps.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-02-12T09:16:18Z",
-            "owner": "microsoft",
-            "repo": "nodejs-guidelines",
-            "stars": 2496
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Project Guidelines",
-          "description": "A set of best practices for JavaScript projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-09T07:59:04Z",
-            "owner": "elsewhencode",
-            "repo": "project-guidelines",
-            "stars": 29451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CodeQL Coding Standards",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CodeQL",
-            "last_commit": "2026-08-18T11:23:18Z",
-            "owner": "github",
-            "repo": "codeql-coding-standards",
-            "stars": 223
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -579,11 +629,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6731432,
             "language": "Haskell",
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39887
+            "stars": 39893
           }
         },
         {
@@ -593,8 +644,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24063576,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T00:46:22Z",
+            "last_commit": "2026-08-18T14:17:54Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
             "stars": 23987
@@ -607,11 +659,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2699935,
             "language": "PHP",
             "last_commit": "2024-04-01T20:37:32Z",
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10775
+            "stars": 10776
           }
         },
         {
@@ -621,11 +674,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-18T13:13:27Z",
+            "last_commit": "2026-08-19T12:23:18Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 8992
+            "stars": 8990
           }
         },
         {
@@ -635,11 +689,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15639771,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T17:40:49Z",
+            "last_commit": "2026-08-18T21:35:57Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8499
+            "stars": 8498
           }
         },
         {
@@ -649,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83446927,
             "language": "PHP",
             "last_commit": "2026-08-11T09:47:35Z",
             "owner": "ecsphp",
@@ -661,8 +717,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:55:53.777Z",
+    "last_updated": "2026-08-19T12:30:53.346Z",
     "original_repository": "Kristories/awesome-guidelines",
+    "original_repository_id": 97054975,
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
     "enhanced_repository": "enhansome/enhansome-guidelines",
     "enhanced_repository_description": null,
