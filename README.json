@@ -54,7 +54,7 @@
                 "last_commit": "2026-04-28T17:18:05Z",
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56483
+                "stars": 56484
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-04-15T15:10:48Z",
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17661
+                "stars": 17659
               }
             }
           ],
@@ -91,7 +91,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148126
+                "stars": 148130
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94765
+                "stars": 94764
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39522
+                "stars": 39523
               }
             },
             {
@@ -357,7 +357,7 @@
                 "last_commit": "2026-08-20T22:20:31Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62735
+                "stars": 62759
               }
             },
             {
@@ -437,7 +437,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23322
+                "stars": 23321
               }
             },
             {
@@ -474,7 +474,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73610
+                "stars": 73616
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2023-12-30T16:43:09Z",
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9116
+                "stars": 9115
               }
             },
             {
@@ -593,7 +593,7 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29449
+                "stars": 29450
               }
             },
             {
@@ -605,7 +605,7 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-22T12:18:47Z",
+                "last_commit": "2026-08-23T03:14:53Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 223
@@ -634,7 +634,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39908
+            "stars": 39913
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2024-04-01T20:37:32Z",
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10776
+            "stars": 10777
           }
         },
         {
@@ -676,7 +676,7 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-22T11:49:33Z",
+            "last_commit": "2026-08-23T11:32:56Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
             "stars": 8998
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-19T17:58:59Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8500
+            "stars": 8501
           }
         },
         {
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:43:56.855Z",
+    "last_updated": "2026-08-23T13:45:08.065Z",
     "original_repository": "Kristories/awesome-guidelines",
     "original_repository_id": 97054975,
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
