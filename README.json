@@ -194,7 +194,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94765
+                "stars": 94766
               }
             },
             {
@@ -405,7 +405,7 @@
                 "archived": false,
                 "id": 724712,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:47:17Z",
+                "last_commit": "2026-08-24T14:13:15Z",
                 "owner": "rust-lang",
                 "repo": "rust",
                 "stars": 115977
@@ -716,7 +716,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73661
+                "stars": 73664
               }
             },
             {
@@ -962,7 +962,7 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-24T13:44:05Z",
+            "last_commit": "2026-08-24T14:10:41Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
             "stars": 8999
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:50:45.599Z",
+    "last_updated": "2026-08-24T14:15:53.439Z",
     "original_repository": "Kristories/awesome-guidelines",
     "original_repository_id": 97054975,
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",

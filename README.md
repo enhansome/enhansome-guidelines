@@ -112,7 +112,7 @@ Programming style, best practices, and coding conventions.
 ### JavaScript
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,132 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 - A mostly reasonable approach to JavaScript.
-* [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,765 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
+* [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,766 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 * [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,918 | 🐛 4 | 📅 2019-01-09 - Community-driven set of best practices for AngularJS application development.
 * [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.
@@ -200,7 +200,7 @@ Programming style, best practices, and coding conventions.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) ⭐ 115,977 | 🐛 12,626 | 🌐 Rust | 📅 2026-08-24
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) ⭐ 115,977 | 🐛 12,629 | 🌐 Rust | 📅 2026-08-24
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
@@ -280,7 +280,7 @@ Programming style, best practices, and coding conventions.
 
 ### Frontend Development
 
-* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,661 | 🐛 7 | 🌐 MDX | 📅 2026-08-14 - Pre-launch checklist for front-end projects.
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,664 | 🐛 7 | 🌐 MDX | 📅 2026-08-14 - Pre-launch checklist for front-end projects.
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,115 | 🐛 5 | 📅 2023-12-30 - Some HTML, CSS and JS best practices.
 * [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) ⭐ 6,974 | 🐛 23 | 📅 2024-06-04 - A mostly reasonable approach to CSS and Sass.
 * [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,629 | 🐛 18 | 📅 2018-11-08 - A collection of best-practices and coding conventions for the CoffeeScript programming language.
@@ -362,7 +362,7 @@ Programming style, best practices, and coding conventions.
 * [ShellCheck](https://github.com/koalaman/shellcheck) ⭐ 39,915 | 🐛 1,139 | 🌐 Haskell | 📅 2026-08-04 - A shell script static analysis tool.
 * [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,998 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 - Automated versioning and publishing from commits.
 * [PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,776 | 🐛 248 | 🌐 PHP | 📅 2024-04-01 - The tool for detecting and fixing the violations of the specified standards in PHP code.
-* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 8,999 | 🐛 796 | 🌐 Java | 📅 2026-08-24 - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
+* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 8,999 | 🐛 797 | 🌐 Java | 📅 2026-08-24 - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,500 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-23 - Generate changelogs from Git commits.
 * [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) ⭐ 1,621 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 - The Easiest Way to Use Any Coding Standard.
 * [Agents.md](https://agents.md) - A simple, open format for guiding coding agents.
