@@ -7,6 +7,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "C# Style Guide",
+              "description": "Community C# style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37925131,
+                "language": null,
+                "last_commit": "2023-02-03T06:55:34Z",
+                "owner": "kodecocodes",
+                "repo": "c-sharp-style-guide",
+                "stars": 502
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C#"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Clojure Style Guide",
+              "description": "A community coding style guide for the Clojure programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7427613,
+                "language": null,
+                "last_commit": "2026-04-15T08:05:32Z",
+                "owner": "bbatsov",
+                "repo": "clojure-style-guide",
+                "stars": 4097
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elixir Styleguide",
+              "description": "Community Elixir coding style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13060236,
+                "language": "Elixir",
+                "last_commit": "2024-05-10T03:55:51Z",
+                "owner": "christopheradams",
+                "repo": "elixir_style_guide",
+                "stars": 4427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Elisp Guide",
               "description": "Guide to writing Emacs Lisp.",
               "children": [],
@@ -44,6 +110,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Erlang Coding Guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22441315,
+                "language": "Erlang",
+                "last_commit": "2022-04-24T20:20:22Z",
+                "owner": "inaka",
+                "repo": "erlang_guidelines",
+                "stars": 641
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Erlang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Go Standard Project Layout",
               "description": "Basic layout for Go applications.",
               "children": [],
@@ -54,7 +142,7 @@
                 "last_commit": "2026-04-28T17:18:05Z",
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56484
+                "stars": 56488
               }
             },
             {
@@ -91,7 +179,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148130
+                "stars": 148132
               }
             },
             {
@@ -106,7 +194,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94764
+                "stars": 94765
               }
             },
             {
@@ -133,6 +221,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Blue Style",
+              "description": "Community style guide for Julia packages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208773376,
+                "language": null,
+                "last_commit": "2026-02-19T12:43:30Z",
+                "owner": "JuliaDiff",
+                "repo": "BlueStyle",
+                "stars": 517
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Markdown Style Guide",
+              "description": "Style guide for Google-originated projects using Markdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35969061,
+                "language": "HTML",
+                "last_commit": "2026-06-03T15:51:23Z",
+                "owner": "google",
+                "repo": "styleguide",
+                "stars": 39526
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ".NET Standard",
+              "description": "Formal specification of .NET APIs that are available across .NET implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 67071145,
+                "language": null,
+                "last_commit": "2026-05-21T19:28:32Z",
+                "owner": "dotnet",
+                "repo": "standard",
+                "stars": 3038
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Google Objective-C Style Guide",
               "description": "Objective-C coding standards and conventions.",
               "children": [],
@@ -143,7 +297,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39523
+                "stars": 39526
               }
             },
             {
@@ -180,6 +334,28 @@
           "description": null,
           "node_type": "group",
           "title": "Objective-C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clean Code PHP",
+              "description": "Clean Code concepts adapted for PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79111500,
+                "language": "PHP",
+                "last_commit": "2024-05-09T12:52:01Z",
+                "owner": "piotrplenik",
+                "repo": "clean-code-php",
+                "stars": 12447
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
         },
         {
           "children": [
@@ -222,6 +398,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Rust Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724712,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:47:17Z",
+                "owner": "rust-lang",
+                "repo": "rust",
+                "stars": 115977
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Scala Best Practices",
               "description": "Recommendations and patterns for Scala development.",
               "children": [],
@@ -254,6 +452,28 @@
           "description": null,
           "node_type": "group",
           "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solcurity Standard",
+              "description": "Security checklist and guidelines for Solidity smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402241377,
+                "language": null,
+                "last_commit": "2023-07-02T23:04:48Z",
+                "owner": "transmissions11",
+                "repo": "solcurity",
+                "stars": 2181
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solidity"
         },
         {
           "children": [
@@ -354,10 +574,10 @@
                 "archived": false,
                 "id": 36502,
                 "language": "C",
-                "last_commit": "2026-08-20T22:20:31Z",
+                "last_commit": "2026-08-24T13:12:26Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62759
+                "stars": 62776
               }
             },
             {
@@ -379,6 +599,28 @@
           "description": null,
           "node_type": "group",
           "title": "Git"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The PowerShell Best Practices and Style Guide",
+              "description": "The Unofficial PowerShell Best Practices and Style Guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17317123,
+                "language": null,
+                "last_commit": "2023-05-19T02:50:39Z",
+                "owner": "PoshCode",
+                "repo": "PowerShellPracticeAndStyle",
+                "stars": 2427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PowerShell"
         }
       ],
       "title": "Development Environment"
@@ -437,7 +679,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23321
+                "stars": 23323
               }
             },
             {
@@ -452,7 +694,7 @@
                 "last_commit": "2026-07-21T07:59:55Z",
                 "owner": "shieldfy",
                 "repo": "API-Security-Checklist",
-                "stars": 23304
+                "stars": 23305
               }
             }
           ],
@@ -474,7 +716,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73616
+                "stars": 73661
               }
             },
             {
@@ -546,6 +788,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "JavaEE Specification",
+              "description": "Official specification for Java EE.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 89344683,
+                "language": "HTML",
+                "last_commit": "2018-03-30T22:47:44Z",
+                "owner": "javaee",
+                "repo": "javaee-spec",
+                "stars": 381
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Node.js Style Guide",
               "description": "A guide for styling your Node.js / JavaScript code.",
               "children": [],
@@ -583,6 +847,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Mongo Style Guide",
+              "description": "Style guidelines for MongoDB usage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89203228,
+                "language": null,
+                "last_commit": "2017-08-10T09:47:54Z",
+                "owner": "jsoendermann",
+                "repo": "MongoStyleGuide",
+                "stars": 89
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MongoDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Project Guidelines",
               "description": "A set of best practices for JavaScript projects.",
               "children": [],
@@ -593,7 +879,7 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29450
+                "stars": 29451
               }
             },
             {
@@ -605,7 +891,7 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-23T03:14:53Z",
+                "last_commit": "2026-08-24T06:13:52Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 223
@@ -634,7 +920,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39913
+            "stars": 39915
           }
         },
         {
@@ -649,7 +935,7 @@
             "last_commit": "2026-08-22T11:08:50Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23997
+            "stars": 23998
           }
         },
         {
@@ -664,7 +950,7 @@
             "last_commit": "2024-04-01T20:37:32Z",
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10777
+            "stars": 10776
           }
         },
         {
@@ -676,10 +962,10 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-23T11:32:56Z",
+            "last_commit": "2026-08-24T13:44:05Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 8998
+            "stars": 8999
           }
         },
         {
@@ -691,10 +977,10 @@
             "archived": false,
             "id": 15639771,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:58:59Z",
+            "last_commit": "2026-08-23T17:03:45Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8501
+            "stars": 8500
           }
         },
         {
@@ -709,7 +995,7 @@
             "last_commit": "2026-08-20T16:49:08Z",
             "owner": "ecsphp",
             "repo": "ecs",
-            "stars": 1620
+            "stars": 1621
           }
         }
       ],
@@ -717,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:45:08.065Z",
+    "last_updated": "2026-08-24T13:50:45.599Z",
     "original_repository": "Kristories/awesome-guidelines",
     "original_repository_id": 97054975,
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
