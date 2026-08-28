@@ -18,7 +18,8 @@
                 "owner": "kodecocodes",
                 "repo": "c-sharp-style-guide",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "bbatsov",
                 "repo": "clojure-style-guide",
                 "stars": 4097
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
                 "stars": 4426
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -84,7 +87,8 @@
                 "owner": "chrisdone-archive",
                 "repo": "elisp-guide",
                 "stars": 1487
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -98,8 +102,9 @@
                 "last_commit": "2026-03-31T12:31:44Z",
                 "owner": "bbatsov",
                 "repo": "emacs-lisp-style-guide",
-                "stars": 1136
-              }
+                "stars": 1135
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -121,7 +126,8 @@
                 "owner": "inaka",
                 "repo": "erlang_guidelines",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -142,8 +148,9 @@
                 "last_commit": "2026-04-28T17:18:05Z",
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56501
-              }
+                "stars": 56507
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -157,8 +164,9 @@
                 "last_commit": "2026-04-15T15:10:48Z",
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17668
-              }
+                "stars": 17666
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -179,8 +187,9 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148141
-              }
+                "stars": 148143
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -194,8 +203,9 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94770
-              }
+                "stars": 94767
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -209,8 +219,9 @@
                 "last_commit": "2019-01-09T23:20:03Z",
                 "owner": "mgechev",
                 "repo": "angularjs-style-guide",
-                "stars": 4918
-              }
+                "stars": 4917
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -232,7 +243,8 @@
                 "owner": "JuliaDiff",
                 "repo": "BlueStyle",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -253,8 +265,9 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39545
-              }
+                "stars": 39549
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -276,7 +289,8 @@
                 "owner": "dotnet",
                 "repo": "standard",
                 "stars": 3037
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -297,8 +311,9 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39545
-              }
+                "stars": 39549
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -313,7 +328,8 @@
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
                 "stars": 5818
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -328,7 +344,8 @@
                 "owner": "github",
                 "repo": "objective-c-style-guide",
                 "stars": 1665
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -350,7 +367,8 @@
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
                 "stars": 12449
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -372,7 +390,8 @@
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
                 "stars": 16548
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -387,7 +406,8 @@
                 "owner": "airbnb",
                 "repo": "ruby",
                 "stars": 3892
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -405,11 +425,12 @@
                 "archived": false,
                 "id": 724712,
                 "language": "Rust",
-                "last_commit": "2026-08-27T21:44:37Z",
+                "last_commit": "2026-08-28T22:06:21Z",
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116294
-              }
+                "stars": 116322
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -431,7 +452,8 @@
                 "owner": "alexandru",
                 "repo": "scala-best-practices",
                 "stars": 4349
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -445,8 +467,9 @@
                 "last_commit": "2024-04-05T20:02:09Z",
                 "owner": "databricks",
                 "repo": "scala-style-guide",
-                "stars": 2806
-              }
+                "stars": 2807
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -468,7 +491,8 @@
                 "owner": "transmissions11",
                 "repo": "solcurity",
                 "stars": 2181
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -490,7 +514,8 @@
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
                 "stars": 13161
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -505,7 +530,8 @@
                 "owner": "github",
                 "repo": "swift-style-guide",
                 "stars": 4756
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -520,7 +546,8 @@
                 "owner": "linkedin",
                 "repo": "swift-style-guide",
                 "stars": 1452
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -535,7 +562,8 @@
                 "owner": "xmartlabs",
                 "repo": "Swift-Style-Guide",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -550,7 +578,8 @@
                 "owner": "metova",
                 "repo": "swift-style-guide",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -574,11 +603,12 @@
                 "archived": false,
                 "id": 36502,
                 "language": "C",
-                "last_commit": "2026-08-27T21:41:14Z",
+                "last_commit": "2026-08-28T22:45:32Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62829
-              }
+                "stars": 62850
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -593,7 +623,8 @@
                 "owner": "agis",
                 "repo": "git-style-guide",
                 "stars": 5116
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -614,8 +645,9 @@
                 "last_commit": "2023-05-19T02:50:39Z",
                 "owner": "PoshCode",
                 "repo": "PowerShellPracticeAndStyle",
-                "stars": 2428
-              }
+                "stars": 2429
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -643,7 +675,8 @@
                 "owner": "ribot",
                 "repo": "android-guidelines",
                 "stars": 4998
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -658,7 +691,8 @@
                 "owner": "xmartlabs",
                 "repo": "Android-Style-Guide",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -679,8 +713,9 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23330
-              }
+                "stars": 23331
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -694,8 +729,9 @@
                 "last_commit": "2026-07-21T07:59:55Z",
                 "owner": "shieldfy",
                 "repo": "API-Security-Checklist",
-                "stars": 23306
-              }
+                "stars": 23305
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -716,8 +752,9 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73915
-              }
+                "stars": 73931
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -731,8 +768,9 @@
                 "last_commit": "2023-12-30T16:43:09Z",
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9114
-              }
+                "stars": 9113
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -747,7 +785,8 @@
                 "owner": "airbnb",
                 "repo": "css",
                 "stars": 6974
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -762,7 +801,8 @@
                 "owner": "polarmobile",
                 "repo": "coffeescript-style-guide",
                 "stars": 1628
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -777,7 +817,8 @@
                 "owner": "marcobiedermann",
                 "repo": "html-style-guide",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -799,7 +840,8 @@
                 "owner": "javaee",
                 "repo": "javaee-spec",
                 "stars": 381
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -821,7 +863,8 @@
                 "owner": "felixge",
                 "repo": "node-style-guide",
                 "stars": 4993
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -836,7 +879,8 @@
                 "owner": "microsoft",
                 "repo": "nodejs-guidelines",
                 "stars": 2496
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -858,7 +902,8 @@
                 "owner": "jsoendermann",
                 "repo": "MongoStyleGuide",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -879,8 +924,9 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29453
-              }
+                "stars": 29451
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             },
             {
               "node_type": "item",
@@ -891,11 +937,12 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-27T22:56:43Z",
+                "last_commit": "2026-08-28T13:38:27Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 224
-              }
+                "stars": 225
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -920,8 +967,9 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39944
-          }
+            "stars": 39951
+          },
+          "first_seen": "2026-08-28T23:01:55.804Z"
         },
         {
           "node_type": "item",
@@ -932,11 +980,12 @@
             "archived": false,
             "id": 24063576,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:54:52Z",
+            "last_commit": "2026-08-28T10:49:00Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24009
-          }
+            "stars": 24015
+          },
+          "first_seen": "2026-08-28T23:01:55.804Z"
         },
         {
           "node_type": "item",
@@ -950,8 +999,9 @@
             "last_commit": "2024-04-01T20:37:32Z",
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10777
-          }
+            "stars": 10778
+          },
+          "first_seen": "2026-08-28T23:01:55.804Z"
         },
         {
           "node_type": "item",
@@ -962,11 +1012,12 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-27T21:47:01Z",
+            "last_commit": "2026-08-28T22:21:19Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9004
-          }
+            "stars": 9024
+          },
+          "first_seen": "2026-08-28T23:01:55.804Z"
         },
         {
           "node_type": "item",
@@ -977,11 +1028,12 @@
             "archived": false,
             "id": 15639771,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:07:31Z",
+            "last_commit": "2026-08-28T10:01:46Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8502
-          }
+            "stars": 8504
+          },
+          "first_seen": "2026-08-28T23:01:55.804Z"
         },
         {
           "node_type": "item",
@@ -995,15 +1047,16 @@
             "last_commit": "2026-08-24T17:02:39Z",
             "owner": "ecsphp",
             "repo": "ecs",
-            "stars": 1621
-          }
+            "stars": 1622
+          },
+          "first_seen": "2026-08-28T23:01:55.804Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:57:07.785Z",
+    "last_updated": "2026-08-28T23:01:55.804Z",
     "original_repository_info": {
       "archived": false,
       "id": 97054975,
@@ -1011,7 +1064,7 @@
       "last_commit": "2026-05-28T02:14:37Z",
       "owner": "Kristories",
       "repo": "awesome-guidelines",
-      "stars": 11071
+      "stars": 11074
     },
     "original_repository_sha": "e9eba9152e4c1d47522eddf5ae1a6bd482ee3e33",
     "enhanced_repository": "enhansome/enhansome-guidelines",
