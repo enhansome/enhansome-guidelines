@@ -195,7 +195,7 @@
                 "open_issues": 95,
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56507,
+                "stars": 56512,
                 "topics": [
                   "go",
                   "golang",
@@ -222,7 +222,7 @@
                 "open_issues": 39,
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17666,
+                "stars": 17667,
                 "topics": [
                   "best-practices",
                   "go",
@@ -291,7 +291,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94767,
+                "stars": 94769,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -385,7 +385,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39549,
+                "stars": 39551,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -445,7 +445,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39549,
+                "stars": 39551,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -547,7 +547,7 @@
                 "open_issues": 74,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16548,
+                "stars": 16547,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -596,11 +596,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T02:58:38Z",
-                "open_issues": 12599,
+                "last_commit": "2026-08-29T15:34:51Z",
+                "open_issues": 12584,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116330,
+                "stars": 116417,
                 "topics": [
                   "compiler",
                   "language",
@@ -709,7 +709,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13161,
+                "stars": 13160,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -730,7 +730,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4756,
+                "stars": 4757,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -837,7 +837,7 @@
                 "open_issues": 388,
                 "owner": "git",
                 "repo": "git",
-                "stars": 62855,
+                "stars": 62867,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -993,7 +993,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23332,
+                "stars": 23333,
                 "topics": [
                   "api",
                   "guidelines",
@@ -1052,7 +1052,7 @@
                 "open_issues": 7,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73932,
+                "stars": 73936,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -1290,7 +1290,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29451,
+                "stars": 29450,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -1360,7 +1360,7 @@
             "open_issues": 1138,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39953,
+            "stars": 39959,
             "topics": [
               "bash",
               "developer-tools",
@@ -1446,11 +1446,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-29T03:18:47Z",
-            "open_issues": 765,
+            "last_commit": "2026-08-29T16:57:15Z",
+            "open_issues": 763,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9031,
+            "stars": 9054,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:44.322Z",
+    "last_updated": "2026-08-29T17:06:41.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Programming style, best practices, and coding conventions.",
