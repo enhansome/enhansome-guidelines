@@ -195,7 +195,7 @@
                 "open_issues": 93,
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56701,
+                "stars": 56706,
                 "topics": [
                   "go",
                   "golang",
@@ -222,7 +222,7 @@
                 "open_issues": 39,
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17747,
+                "stars": 17748,
                 "topics": [
                   "best-practices",
                   "go",
@@ -255,7 +255,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148053,
+                "stars": 148050,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -291,7 +291,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94709,
+                "stars": 94706,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -381,11 +381,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:46:55Z",
+                "last_commit": "2026-10-21T22:14:02Z",
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39691,
+                "stars": 39710,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -417,7 +417,7 @@
                 "open_issues": 0,
                 "owner": "dotnet",
                 "repo": "standard",
-                "stars": 3037,
+                "stars": 3036,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -441,11 +441,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:46:55Z",
+                "last_commit": "2026-10-21T22:14:02Z",
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39691,
+                "stars": 39710,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -519,7 +519,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12455,
+                "stars": 12457,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -596,11 +596,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T16:36:30Z",
-                "open_issues": 12626,
+                "last_commit": "2026-10-22T17:12:51Z",
+                "open_issues": 12625,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 120626,
+                "stars": 120668,
                 "topics": [
                   "compiler",
                   "language",
@@ -751,7 +751,7 @@
                 "open_issues": 5,
                 "owner": "linkedin",
                 "repo": "swift-style-guide",
-                "stars": 1454,
+                "stars": 1455,
                 "topics": [
                   "ios",
                   "style-guide",
@@ -833,11 +833,11 @@
                 "id": 36502,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T14:48:26Z",
-                "open_issues": 406,
+                "last_commit": "2026-10-21T23:08:37Z",
+                "open_issues": 407,
                 "owner": "git",
                 "repo": "git",
-                "stars": 63929,
+                "stars": 63940,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -862,7 +862,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5112,
+                "stars": 5111,
                 "topics": [
                   "git",
                   "style",
@@ -895,7 +895,7 @@
                 "open_issues": 39,
                 "owner": "PoshCode",
                 "repo": "PowerShellPracticeAndStyle",
-                "stars": 2439,
+                "stars": 2440,
                 "topics": [
                   "best-practices",
                   "conventions",
@@ -993,7 +993,7 @@
                 "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23340,
+                "stars": 23341,
                 "topics": [
                   "api",
                   "guidelines",
@@ -1019,7 +1019,7 @@
                 "open_issues": 2,
                 "owner": "shieldfy",
                 "repo": "API-Security-Checklist",
-                "stars": 23339,
+                "stars": 23340,
                 "topics": [
                   "api",
                   "jwt",
@@ -1052,7 +1052,7 @@
                 "open_issues": 14,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 74539,
+                "stars": 74548,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -1089,7 +1089,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9130,
+                "stars": 9129,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1110,7 +1110,7 @@
                 "open_issues": 23,
                 "owner": "airbnb",
                 "repo": "css",
-                "stars": 6961,
+                "stars": 6960,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "nodejs-guidelines",
-                "stars": 2492,
+                "stars": 2491,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29416,
+                "stars": 29417,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -1314,8 +1314,8 @@
                 "id": 513154248,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-08T16:10:42Z",
-                "open_issues": 144,
+                "last_commit": "2026-10-22T12:26:27Z",
+                "open_issues": 141,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 230,
@@ -1357,10 +1357,10 @@
             "language": "Haskell",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T01:25:10Z",
-            "open_issues": 1075,
+            "open_issues": 1083,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40210,
+            "stars": 40217,
             "topics": [
               "bash",
               "developer-tools",
@@ -1384,11 +1384,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:42:18Z",
+            "last_commit": "2026-10-22T16:45:54Z",
             "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24122,
+            "stars": 24120,
             "topics": [
               "automation",
               "changelog",
@@ -1422,7 +1422,7 @@
             "open_issues": 247,
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10767,
+            "stars": 10768,
             "topics": [
               "automation",
               "cli",
@@ -1446,11 +1446,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-21T17:47:20Z",
-            "open_issues": 814,
+            "last_commit": "2026-10-22T17:24:32Z",
+            "open_issues": 820,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9614,
+            "stars": 9615,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -1474,8 +1474,8 @@
             "id": 15639771,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-10-21T12:33:53Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-22T16:53:47Z",
+            "open_issues": 31,
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
             "stars": 8522,
@@ -1502,7 +1502,7 @@
             "id": 83446927,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-20T21:19:27Z",
+            "last_commit": "2026-10-21T20:24:04Z",
             "open_issues": 0,
             "owner": "ecsphp",
             "repo": "ecs",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:01:22.780Z",
+    "last_updated": "2026-10-22T17:58:16.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Programming style, best practices, and coding conventions.",
@@ -1535,7 +1535,7 @@
       "open_issues": 0,
       "owner": "Kristories",
       "repo": "awesome-guidelines",
-      "stars": 11206,
+      "stars": 11204,
       "topics": [
         "awesome",
         "awesome-guidelines",
