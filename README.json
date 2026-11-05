@@ -81,7 +81,7 @@
                 "open_issues": 8,
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
-                "stars": 4428,
+                "stars": 4427,
                 "topics": [
                   "elixir",
                   "elixir-lang",
@@ -195,7 +195,7 @@
                 "open_issues": 93,
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56730,
+                "stars": 56735,
                 "topics": [
                   "go",
                   "golang",
@@ -222,7 +222,7 @@
                 "open_issues": 39,
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17758,
+                "stars": 17759,
                 "topics": [
                   "best-practices",
                   "go",
@@ -255,7 +255,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148021,
+                "stars": 148023,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -381,11 +381,11 @@
                 "id": 35969061,
                 "language": "Emacs Lisp",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T18:20:36Z",
+                "last_commit": "2026-11-05T17:27:20Z",
                 "open_issues": 84,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39795,
+                "stars": 39800,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -441,11 +441,11 @@
                 "id": 35969061,
                 "language": "Emacs Lisp",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T18:20:36Z",
+                "last_commit": "2026-11-05T17:27:20Z",
                 "open_issues": 84,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39795,
+                "stars": 39800,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -519,7 +519,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12455,
+                "stars": 12454,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -547,7 +547,7 @@
                 "open_issues": 77,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16542,
+                "stars": 16541,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -572,7 +572,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3888,
+                "stars": 3889,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -596,11 +596,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T19:33:31Z",
-                "open_issues": 12621,
+                "last_commit": "2026-11-05T20:14:04Z",
+                "open_issues": 12593,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 121063,
+                "stars": 121129,
                 "topics": [
                   "compiler",
                   "language",
@@ -833,11 +833,11 @@
                 "id": 36502,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T23:29:34Z",
+                "last_commit": "2026-11-05T16:42:13Z",
                 "open_issues": 418,
                 "owner": "git",
                 "repo": "git",
-                "stars": 64163,
+                "stars": 64181,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -936,7 +936,7 @@
                 "open_issues": 11,
                 "owner": "ribot",
                 "repo": "android-guidelines",
-                "stars": 4989,
+                "stars": 4988,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -979,32 +979,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "API Security Checklist",
-              "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
-                "homepage": null,
-                "id": 96641209,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-07-21T07:59:55Z",
-                "open_issues": 2,
-                "owner": "shieldfy",
-                "repo": "API-Security-Checklist",
-                "stars": 23344,
-                "topics": [
-                  "api",
-                  "jwt",
-                  "oauth2",
-                  "security"
-                ]
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
               "title": "Microsoft REST API Guidelines",
               "description": "The Microsoft REST API Guidelines.",
               "children": [],
@@ -1025,6 +999,32 @@
                   "guidelines",
                   "rest-api",
                   "styleguide"
+                ]
+              },
+              "first_seen": "2026-08-28T23:01:55.804Z"
+            },
+            {
+              "node_type": "item",
+              "title": "API Security Checklist",
+              "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+                "homepage": null,
+                "id": 96641209,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-07-21T07:59:55Z",
+                "open_issues": 2,
+                "owner": "shieldfy",
+                "repo": "API-Security-Checklist",
+                "stars": 23341,
+                "topics": [
+                  "api",
+                  "jwt",
+                  "oauth2",
+                  "security"
                 ]
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1052,7 +1052,7 @@
                 "open_issues": 20,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 74646,
+                "stars": 74655,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -1234,7 +1234,7 @@
                 "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "nodejs-guidelines",
-                "stars": 2488,
+                "stars": 2487,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1315,7 +1315,7 @@
                 "language": "CodeQL",
                 "license": "MIT",
                 "last_commit": "2026-11-03T20:10:13Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 231,
@@ -1356,11 +1356,11 @@
             "id": 6731432,
             "language": "Haskell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T01:55:51Z",
-            "open_issues": 1091,
+            "last_commit": "2026-11-05T09:06:20Z",
+            "open_issues": 1090,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40282,
+            "stars": 40286,
             "topics": [
               "bash",
               "developer-tools",
@@ -1388,7 +1388,7 @@
             "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24153,
+            "stars": 24156,
             "topics": [
               "automation",
               "changelog",
@@ -1422,7 +1422,7 @@
             "open_issues": 247,
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10764,
+            "stars": 10765,
             "topics": [
               "automation",
               "cli",
@@ -1446,11 +1446,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-04T20:12:11Z",
-            "open_issues": 885,
+            "last_commit": "2026-11-05T20:29:37Z",
+            "open_issues": 874,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9625,
+            "stars": 9629,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -1478,7 +1478,7 @@
             "open_issues": 18,
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8529,
+            "stars": 8527,
             "topics": [
               "changelog",
               "git",
@@ -1502,11 +1502,11 @@
             "id": 83446927,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-04T20:18:28Z",
+            "last_commit": "2026-11-05T16:54:00Z",
             "open_issues": 0,
             "owner": "ecsphp",
             "repo": "ecs",
-            "stars": 1629,
+            "stars": 1630,
             "topics": [
               "ci",
               "coding-standard",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:25:06.254Z",
+    "last_updated": "2026-11-05T20:38:39.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "Programming style, best practices, and coding conventions.",
