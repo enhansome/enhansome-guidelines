@@ -49,7 +49,7 @@
                 "open_issues": 32,
                 "owner": "bbatsov",
                 "repo": "clojure-style-guide",
-                "stars": 4098,
+                "stars": 4097,
                 "topics": [
                   "clojure",
                   "style-guide",
@@ -135,7 +135,7 @@
                 "open_issues": 16,
                 "owner": "bbatsov",
                 "repo": "emacs-lisp-style-guide",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -222,7 +222,7 @@
                 "open_issues": 39,
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17766,
+                "stars": 17770,
                 "topics": [
                   "best-practices",
                   "go",
@@ -255,7 +255,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148005,
+                "stars": 148007,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -385,7 +385,7 @@
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39825,
+                "stars": 39830,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -445,7 +445,7 @@
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39825,
+                "stars": 39830,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -519,7 +519,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12454,
+                "stars": 12456,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -572,7 +572,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3886,
+                "stars": 3885,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -596,11 +596,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T18:29:03Z",
-                "open_issues": 12598,
+                "last_commit": "2026-11-15T17:58:39Z",
+                "open_issues": 12630,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 121912,
+                "stars": 121958,
                 "topics": [
                   "compiler",
                   "language",
@@ -709,7 +709,7 @@
                 "open_issues": 15,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13140,
+                "stars": 13142,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -730,7 +730,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4750,
+                "stars": 4749,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -833,11 +833,11 @@
                 "id": 36502,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T01:05:54Z",
+                "last_commit": "2026-11-15T01:31:07Z",
                 "open_issues": 415,
                 "owner": "git",
                 "repo": "git",
-                "stars": 64316,
+                "stars": 64325,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -862,7 +862,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5105,
+                "stars": 5104,
                 "topics": [
                   "git",
                   "style",
@@ -936,7 +936,7 @@
                 "open_issues": 11,
                 "owner": "ribot",
                 "repo": "android-guidelines",
-                "stars": 4986,
+                "stars": 4985,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1052,7 +1052,7 @@
                 "open_issues": 22,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 74734,
+                "stars": 74745,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -1290,7 +1290,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29413,
+                "stars": 29412,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -1357,10 +1357,10 @@
             "language": "Haskell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-09T01:29:53Z",
-            "open_issues": 1078,
+            "open_issues": 1075,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40341,
+            "stars": 40347,
             "topics": [
               "bash",
               "developer-tools",
@@ -1384,11 +1384,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T16:07:21Z",
+            "last_commit": "2026-11-15T19:08:27Z",
             "open_issues": 414,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24169,
+            "stars": 24171,
             "topics": [
               "automation",
               "changelog",
@@ -1422,7 +1422,7 @@
             "open_issues": 247,
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10764,
+            "stars": 10763,
             "topics": [
               "automation",
               "cli",
@@ -1446,11 +1446,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-14T18:15:22Z",
-            "open_issues": 960,
+            "last_commit": "2026-11-15T19:20:09Z",
+            "open_issues": 1005,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9648,
+            "stars": 9657,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -1474,11 +1474,11 @@
             "id": 15639771,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-11-14T05:25:44Z",
+            "last_commit": "2026-11-15T03:58:34Z",
             "open_issues": 24,
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8531,
+            "stars": 8532,
             "topics": [
               "changelog",
               "git",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:43:41.543Z",
+    "last_updated": "2026-11-15T19:21:48.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Programming style, best practices, and coding conventions.",
@@ -1535,7 +1535,7 @@
       "open_issues": 0,
       "owner": "Kristories",
       "repo": "awesome-guidelines",
-      "stars": 11263,
+      "stars": 11266,
       "topics": [
         "awesome",
         "awesome-guidelines",
