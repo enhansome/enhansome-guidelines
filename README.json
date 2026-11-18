@@ -81,7 +81,7 @@
                 "open_issues": 8,
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "elixir",
                   "elixir-lang",
@@ -98,27 +98,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Elisp Guide",
-              "description": "Guide to writing Emacs Lisp.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A quick guide to Emacs Lisp programming",
-                "homepage": null,
-                "id": 23618499,
-                "language": null,
-                "license": null,
-                "last_commit": "2022-03-19T04:53:10Z",
-                "open_issues": 1,
-                "owner": "chrisdone-archive",
-                "repo": "elisp-guide",
-                "stars": 1481,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
             {
               "node_type": "item",
               "title": "Emacs Lisp Style Guide",
@@ -150,7 +129,7 @@
             {
               "node_type": "item",
               "title": "Erlang Coding Guidelines",
-              "description": "inaka/erlang_guidelines",
+              "description": "Inaka's conventions for writing readable Erlang code.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -195,7 +174,7 @@
                 "open_issues": 93,
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56755,
+                "stars": 56758,
                 "topics": [
                   "go",
                   "golang",
@@ -222,7 +201,7 @@
                 "open_issues": 39,
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17781,
+                "stars": 17783,
                 "topics": [
                   "best-practices",
                   "go",
@@ -291,7 +270,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94699,
+                "stars": 94695,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -381,11 +360,11 @@
                 "id": 35969061,
                 "language": "Emacs Lisp",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T17:40:17Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-18T18:12:39Z",
+                "open_issues": 85,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39839,
+                "stars": 39846,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -403,34 +382,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": ".NET Standard",
-              "description": "Formal specification of .NET APIs that are available across .NET implementations.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "This repo is building the .NET Standard",
-                "homepage": null,
-                "id": 67071145,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-05-21T19:28:32Z",
-                "open_issues": 0,
-                "owner": "dotnet",
-                "repo": "standard",
-                "stars": 3035,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": ".NET"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Google Objective-C Style Guide",
               "description": "Objective-C coding standards and conventions.",
               "children": [],
@@ -441,58 +392,16 @@
                 "id": 35969061,
                 "language": "Emacs Lisp",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T17:40:17Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-18T18:12:39Z",
+                "open_issues": 85,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39839,
+                "stars": 39846,
                 "topics": [
                   "cpplint",
                   "style-guide",
                   "styleguide"
                 ]
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NYTimes Objective-C Style Guide",
-              "description": "The Objective-C Style Guide used by The New York Times.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "The Objective-C Style Guide used by The New York Times",
-                "homepage": "http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/",
-                "id": 11797828,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-05-09T17:23:08Z",
-                "open_issues": 0,
-                "owner": "nytimes",
-                "repo": "objective-c-style-guide",
-                "stars": 5809,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Objective-C Style guide",
-              "description": "Style guide & coding conventions for Objective-C projects.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "**Archived** Style guide & coding conventions for Objective-C projects",
-                "homepage": null,
-                "id": 5968664,
-                "language": null,
-                "license": null,
-                "last_commit": "2017-11-08T16:07:32Z",
-                "open_issues": 3,
-                "owner": "github",
-                "repo": "objective-c-style-guide",
-                "stars": 1661,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
             }
@@ -519,7 +428,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12455,
+                "stars": 12454,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -587,7 +496,7 @@
             {
               "node_type": "item",
               "title": "Rust Style Guide",
-              "description": "rust-lang/rust",
+              "description": "Official formatting conventions for Rust code used by rustfmt.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -596,11 +505,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T21:15:59Z",
-                "open_issues": 12587,
+                "last_commit": "2026-11-18T21:06:59Z",
+                "open_issues": 12559,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 122306,
+                "stars": 122230,
                 "topics": [
                   "compiler",
                   "language",
@@ -716,27 +625,6 @@
             },
             {
               "node_type": "item",
-              "title": "Swift",
-              "description": "GitHub Official Swift style and conventions.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "**Archived** Style guide & coding conventions for Swift projects",
-                "homepage": null,
-                "id": 21782593,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2017-11-08T16:05:41Z",
-                "open_issues": 4,
-                "owner": "github",
-                "repo": "swift-style-guide",
-                "stars": 4750,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
               "title": "Swift Style Guide",
               "description": "LinkedIn Official Swift Style Guide.",
               "children": [],
@@ -757,54 +645,6 @@
                   "style-guide",
                   "swift"
                 ]
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Xmartlabs Swift Style Guide",
-              "description": "Swift language style guide & coding conventions followed by Xmartlabs.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Swift language style guide & coding conventions followed by Xmartlabs.",
-                "homepage": null,
-                "id": 49088556,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2017-02-07T12:18:40Z",
-                "open_issues": 1,
-                "owner": "xmartlabs",
-                "repo": "Swift-Style-Guide",
-                "stars": 43,
-                "topics": [
-                  "code-style",
-                  "conventions",
-                  "styleguide",
-                  "swift",
-                  "xmartlabs"
-                ]
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Metova's Swift style guide",
-              "description": "Swift style guide for Xcode (archived, deprecated 2022).",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Metova's Swift Style Guide",
-                "homepage": null,
-                "id": 55091763,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2022-12-05T16:45:58Z",
-                "open_issues": 0,
-                "owner": "metova",
-                "repo": "swift-style-guide",
-                "stars": 0,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
             }
@@ -833,11 +673,11 @@
                 "id": 36502,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T18:16:45Z",
-                "open_issues": 414,
+                "last_commit": "2026-11-18T20:04:05Z",
+                "open_issues": 415,
                 "owner": "git",
                 "repo": "git",
-                "stars": 64360,
+                "stars": 64367,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -940,35 +780,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Xmartlabs Android Style Guide",
-              "description": "Style guide for Android by Xmartlabs.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Style guide for Android by Xmartlabs",
-                "homepage": null,
-                "id": 50114332,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2017-04-25T20:00:46Z",
-                "open_issues": 0,
-                "owner": "xmartlabs",
-                "repo": "Android-Style-Guide",
-                "stars": 7,
-                "topics": [
-                  "android",
-                  "code-style",
-                  "conventions",
-                  "intellij",
-                  "java",
-                  "styleguide",
-                  "xmartlabs"
-                ]
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
             }
           ],
           "description": null,
@@ -1049,10 +860,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-10-31T05:44:22Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 74762,
+                "stars": 74773,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -1089,7 +900,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9133,
+                "stars": 9132,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1171,34 +982,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "JavaEE Specification",
-              "description": "Official specification for Java EE.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Java EE Platform Specification",
-                "homepage": "https://javaee.github.io/javaee-spec",
-                "id": 89344683,
-                "language": "HTML",
-                "license": "NOASSERTION",
-                "last_commit": "2018-03-30T22:47:44Z",
-                "open_issues": 25,
-                "owner": "javaee",
-                "repo": "javaee-spec",
-                "stars": 380,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Java"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Node.js Style Guide",
               "description": "A guide for styling your Node.js / JavaScript code.",
               "children": [],
@@ -1214,27 +997,6 @@
                 "owner": "felixge",
                 "repo": "node-style-guide",
                 "stars": 4983,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:01:55.804Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Microsoft + Node.js Guidelines",
-              "description": "Engineering guidelines for building Node.js apps.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.",
-                "homepage": null,
-                "id": 45360221,
-                "language": null,
-                "license": null,
-                "last_commit": "2023-02-12T09:16:18Z",
-                "open_issues": 19,
-                "owner": "microsoft",
-                "repo": "nodejs-guidelines",
-                "stars": 2485,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:55.804Z"
@@ -1305,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "CodeQL Coding Standards",
-              "description": "github/codeql-coding-standards",
+              "description": "CodeQL queries for checking C and C++ against AUTOSAR and MISRA standards.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1314,8 +1076,8 @@
                 "id": 513154248,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-11-16T18:07:14Z",
-                "open_issues": 149,
+                "last_commit": "2026-11-18T20:38:24Z",
+                "open_issues": 151,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 234,
@@ -1357,10 +1119,10 @@
             "language": "Haskell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-09T01:29:53Z",
-            "open_issues": 1075,
+            "open_issues": 1076,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40358,
+            "stars": 40361,
             "topics": [
               "bash",
               "developer-tools",
@@ -1422,7 +1184,7 @@
             "open_issues": 247,
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10762,
+            "stars": 10763,
             "topics": [
               "automation",
               "cli",
@@ -1446,11 +1208,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-17T21:43:31Z",
-            "open_issues": 1044,
+            "last_commit": "2026-11-18T18:18:56Z",
+            "open_issues": 1050,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9661,
+            "stars": 9662,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -1502,8 +1264,8 @@
             "id": 83446927,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:38:27Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-18T21:12:48Z",
+            "open_issues": 1,
             "owner": "ecsphp",
             "repo": "ecs",
             "stars": 1632,
@@ -1523,19 +1285,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:45:14.998Z",
+    "last_updated": "2026-11-18T21:25:23.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Programming style, best practices, and coding conventions.",
       "homepage": null,
       "id": 97054975,
-      "language": "JavaScript",
+      "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-28T05:01:18Z",
+      "last_commit": "2026-11-18T02:00:02Z",
       "open_issues": 0,
       "owner": "Kristories",
       "repo": "awesome-guidelines",
-      "stars": 11272,
+      "stars": 11275,
       "topics": [
         "awesome",
         "awesome-guidelines",
@@ -1548,7 +1310,7 @@
         "style-guide"
       ]
     },
-    "original_repository_sha": "a27b09da1f53cbfff7a82b87c4043a4509dd40e1",
+    "original_repository_sha": "2e033eff6a5fb1c2b478c88ac337129d21d24c55",
     "enhanced_repository": "enhansome/enhansome-guidelines",
     "enhanced_repository_description": null,
     "title": "Awesome Guidelines with stars"
